@@ -1,5 +1,15 @@
 # Remotion video
 
+## Gesture-controlled lightning sequence
+
+See [Gesture Lightning](./README-orbit.md) for the complete **20-second, 1920 × 1080**
+character-and-collage sequence, preview, validation and MP4 commands.
+
+## Stylized boy introduction
+
+See [the character guide](./README-character.md) for installation, preview,
+validation and MP4 rendering of the procedural 1080-square, six-second `CharacterIntro`.
+
 <p align="center">
   <a href="https://github.com/remotion-dev/logo">
     <picture>
